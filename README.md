@@ -41,4 +41,9 @@ Everyday Functioning Prompts:
 
   OUTPUT:
 
+  https://drive.google.com/file/d/1rKPe4jVbWS-9BJt9ZtBLCetgiX6Bi7xJ/view?usp=sharing
+
   RESULT:
+  
+Thus, the experiment helped in understanding how Comparative Analysis, Experiential Perspective, and Everyday Functioning prompts are used to generate different types of informative and practical responses based on real-life scenarios.
+
